@@ -22,7 +22,7 @@ clone to the repo or download the files, open the directory and follow the comma
        |_|\___/|_|   \____|_| |_|\___/|___/\__|
 	v2.0 - GNUn3T  
         Blank Room & Death Deep forum 
-        [Channel Telegram](https://t.me/DeathDeep) 
+        Channel Telegram : https://t.me/DeathDeep 
 
 
 	USAGE:
