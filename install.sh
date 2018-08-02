@@ -10,4 +10,4 @@ sudo cp torghost /usr/bin/torghost
 sudo chmod +x /usr/bin/torghost
 echo "=====> Done "
 echo "=====> Open terminal and type 'torghost' for usage "
-echo "Any questions on cyber security? Join IRCoders-iranianCoders forum: https://www.iraniancoders.ir "
+echo "Any questions on cyber security? Join Blank Room & Death Deep forum Channel Telegram (https://t.me/DeathDeep) "
