@@ -46,7 +46,8 @@ def logo():
        | | (_) | |  | |_| | | | | (_) \__ \ |_
        |_|\___/|_|   \____|_| |_|\___/|___/\__|
 	v2.0 - GNUn3T 
-	IRCoders-IranianCoders forum: https://www.iraniancoders.ir
+	Blank Room & Death Deep forum 
+        Channel Telegram : https://t.me/DeathDeep
 
     """
 	print bcolors.ENDC
