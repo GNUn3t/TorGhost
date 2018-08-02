@@ -2,7 +2,7 @@
 THIS TOOL IS FOR KALI LINUX AND BUILD ON PYTHON 2.7 (wont work on windows and python 3.x)
 
 
-#GNUn3T - [IRCoders](https://iraniancoders.ir)
+#GNUn3T - [Blank Room]() & [Death Deep](https://t.me/DeathDeep)
 
 
 -----------------INSTALL ----------------------------------------------------------------
@@ -21,7 +21,8 @@ clone to the repo or download the files, open the directory and follow the comma
        | | (_) | |  | |_| | | | | (_) \__ \ |_
        |_|\___/|_|   \____|_| |_|\___/|___/\__|
 	v2.0 - GNUn3T  
-        IRCoders-IranianCoders forum: https://www.iraniancoders.ir
+        Blank Room & Death Deep forum 
+        [Channel Telegram](https://t.me/DeathDeep) 
 
 
 	USAGE:
