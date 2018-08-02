@@ -2,7 +2,7 @@
 THIS TOOL IS FOR KALI LINUX AND BUILD ON PYTHON 2.7 (wont work on windows and python 3.x)
 
 
-#GNUn3T - [Blank Room]() & [Death Deep](https://t.me/DeathDeep)
+#GNUn3T - [Blank Room](https://t.me/joinchat/AAAAAEMccP91oac6CE1AHw) & [Death Deep](https://t.me/DeathDeep)
 
 
 -----------------INSTALL ----------------------------------------------------------------
